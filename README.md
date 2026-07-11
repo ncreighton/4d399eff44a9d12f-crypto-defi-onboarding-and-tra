@@ -1,0 +1,2 @@
+# 4d399eff44a9d12f-crypto-defi-onboarding-and-tra
+Professional crypto defi Notion template — without the professional price tag.  Fully documented: every section explained so you know exactly what to customize. Pre-built databases, views, and formula fields — ready to duplicate and use.  ## What's Included  - Crypto Defi Onboarding And Training — fully configured and ready to use - Pre-built datab
